@@ -1,4 +1,4 @@
-# Multi-lingual SDA Hymnal from Rejnac Foundation.
+# Compiled SDA Hymnal from Rejnac Foundation.
 
 By sir enock,
 
