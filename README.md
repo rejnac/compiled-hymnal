@@ -1,4 +1,4 @@
-# Compiled SDA Hymnal 
+# Multi-lingual hymns
 
 
 The repository contains databases of hymnal Lyrics in multiple languages.
