@@ -30,7 +30,7 @@ You can support us in correcting code/lyrics errors or donating towards a team o
 
 # VideoPsalm App projector presentation
 1. Download the (.vpc) file 
-2. Copy the downloaded (.vpc) file into your computer's VideoPsalm root folder (inside the songbooks)
+2. Copy the downloaded (.vpc) file into your computer's VideoPsalm root folder (inside songbooks)
 3. Launch or restart VideoPsalm App for the changes to apply. Enjoy!!!
  
 
