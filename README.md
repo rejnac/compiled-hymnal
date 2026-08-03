@@ -6,7 +6,7 @@ The repository contains databases of hymnal Lyrics in multiple languages.
 Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software (open-source), exported in its native (.vpc) format, and extracted as (.Json) file.
 
 SDAH Hymnal is part of several other databases and lyrics based projects that we are currently doing in different languages. 
-# Songs list
+# Compilation
 
 1. English: https://tinyurl.com/rejnac-sdah
 2. Ekegusii: https://tinyurl.com/rejnac-ogotera
