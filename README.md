@@ -26,4 +26,4 @@ Making SDA Worship Material accessible to everyone.
  
 You can help us correct lyrics errors in (.json), donate, or join a team of dedicated developers involved in this noble project.
 
-Prepared by sir enock, director at Rejnac Group Inc. (https://rejnac.com).
+Prepared sir enock and friends (https://rejnac.org).
