@@ -28,4 +28,9 @@ Making SDA Worship Material accessible to everyone.
 
 You can support us in correcting code/lyrics errors or donating towards a team of dedicated developers involved in this noble project.
 
+# VideoPsalm App projector presentation
+1. Download the (.vpc) file 
+2. Copy the downloaded (.vpc) file into your computer's VideoPsalm root (inside the songbooks folder)
+3. Launch or restart VideoPsalm App for the changes to apply. Enjoy!!!
+
 Prepared by sir enock, director at Rejnac Group Inc. (https://rejnac.com).
