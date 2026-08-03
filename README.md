@@ -27,5 +27,4 @@ You can support us in correcting errors or donating towards a team of dedicated 
 "Preserving the Heritage of SDA worship materials" is our ultimate goal!
 
 
-
 Prepared by sir enock, director at Rejnac Group Inc. (https://rejnac.com).
