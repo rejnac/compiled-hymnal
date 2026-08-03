@@ -1,4 +1,4 @@
-# Multi-lingual hymns
+# multilingual hymns
 
 
 The repository contains databases of hymnal Lyrics in multiple languages.
