@@ -24,6 +24,6 @@ Making SDA Worship Material accessible to everyone.
 2. Copy the downloaded (.vpc) file into your computer's VideoPsalm root folder (inside songbooks)
 3. Launch or restart VideoPsalm App for the changes to apply. Enjoy!!!
  
-You can help us correct lyrics errors in (.json) or donate towards a team of dedicated developers involved in this noble project (https://rejnac.org/donate).
+You can help us correct lyrics errors in (.json), donate, or join a team of dedicated developers involved in this noble project.
 
 Prepared by sir enock, director at Rejnac Group Inc. (https://rejnac.com).
