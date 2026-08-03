@@ -15,7 +15,7 @@ SDAH Hymnal is part of several other databases and lyrics based projects that we
 4. Dholuo: https://tinyurl.com/rejnac-wende
 5. Kikuyu: https://tinyurl.com/rejnac-kikuyu
 6. Chichewa: https://tinyurl.com/rejnac-chichewa
-7. French: https://tinyurl.com/rejnac-french
+7. French: https://tinyurl.com/rejnacs-french
 
 # Donation contacts
 You can support us in correcting errors or donating towards a team of dedicated developers involved in this noble project.
