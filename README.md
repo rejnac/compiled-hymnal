@@ -17,14 +17,15 @@ SDAH Hymnal is part of several other databases and lyrics based projects that we
 6. Chichewa: https://tinyurl.com/rejnac-chichewa
 7. French: https://tinyurl.com/rejnacs-french
 
+# Our mission
+Making SDA Worship Material accessible to everyone.
+
 # Donation contacts
-You can support us in correcting errors or donating towards a team of dedicated developers involved in this noble project.
 
 * Paypal: info@rejnac.com 
 * M-Pesa: +254713860652
 * Donate: https://tinyurl.com/rejnac-donate
 
-"Preserving the Heritage of SDA worship materials" is our ultimate goal!
-
+You can support us in correcting errors or donating towards a team of dedicated developers involved in this noble project.
 
 Prepared by sir enock, director at Rejnac Group Inc. (https://rejnac.com).
