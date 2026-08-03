@@ -4,7 +4,7 @@ By sir enock,
 
 The repository contains databases of hymnal Lyrics in multiple languages.
 
-Please note that the lyrics were initially prepared on VideoPsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
+Disclaimer: The lyrics were prepared on VideoPsalm Church Presentation software (opensource), exported in its native (.vpc) format, and extracted as (.Json) file.
 
 SDAH Hymnal is part of several other databases and lyrics based projects that we are currently doing in different languages. 
 # Links to related projects
