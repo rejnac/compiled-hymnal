@@ -22,11 +22,12 @@ Making SDA Worship Material accessible to everyone.
 
 # Donate
 
+You can support us in correcting lyrics erros or donating towards a team of dedicated developers involved in this noble project.
 * Paypal: info@rejnac.com 
 * M-Pesa: +254713860652
 * Donate: https://tinyurl.com/rejnac-donate
 
-You can support us in correcting code/lyrics errors or donating towards a team of dedicated developers involved in this noble project.
+
 
 # VideoPsalm App projector presentation
 1. Download the (.vpc) file 
