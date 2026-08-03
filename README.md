@@ -19,19 +19,11 @@ SDAH Hymnal is part of several other databases and lyrics based projects that we
 # Our mission
 Making SDA Worship Material accessible to everyone.
 
-# Donate
-
-You can support us in correcting lyrics erros or donating towards a team of dedicated developers involved in this noble project.
-* Paypal: info@rejnac.com 
-* M-Pesa: +254713860652
-* Donate: https://tinyurl.com/rejnac-donate
-
-
-
 # VideoPsalm App projector presentation
 1. Download the (.vpc) file 
 2. Copy the downloaded (.vpc) file into your computer's VideoPsalm root folder (inside songbooks)
 3. Launch or restart VideoPsalm App for the changes to apply. Enjoy!!!
  
+You can help us correct lyrics errors in (.json) or donate towards a team of dedicated developers involved in this noble project (https://rejnac.org/donate).
 
 Prepared by sir enock, director at Rejnac Group Inc. (https://rejnac.com).
