@@ -1,6 +1,5 @@
 # Compiled SDA Hymnal from Rejnac Foundation.
 
-By sir enock,
 
 The repository contains databases of hymnal Lyrics in multiple languages.
 
