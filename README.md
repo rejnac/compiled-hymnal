@@ -19,7 +19,9 @@ SDAH Hymnal is part of several other databases and lyrics based projects that we
 # Mission
 Making SDA Worship Material accessible to everyone.
 
-# VideoPsalm presentation
+# VideoPsalm 
+Download VideoPsalm and follow these 3 steps to start projecting;
+ 
 1. Download the (.vpc) file 
 2. Copy the downloaded (.vpc) file into your computer's VideoPsalm root folder (inside songbooks)
 3. Launch or restart VideoPsalm App for the changes to apply. Enjoy!!!
