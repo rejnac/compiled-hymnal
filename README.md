@@ -17,7 +17,7 @@ SDAH Hymnal is part of several other databases and lyrics based projects that we
 7. French: https://tinyurl.com/rejnacs-french
 
 # Mission
-Making SDA Worship Material accessible to everyone.
+Making SDA worship material accessible to everyone.
 
 # VideoPsalm 
 Download VideoPsalm and follow these 3 steps to start projecting;
