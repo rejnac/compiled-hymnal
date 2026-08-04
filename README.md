@@ -14,6 +14,7 @@ Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software 
 6. Chichewa: https://tinyurl.com/rejnacs-chichewa
 7. French: https://tinyurl.com/rejnacs-french
 8. Spanish: https://tinyurl.com/rejnac-spanish
+9. Icibemba: https://tinyurl.com/rejnac-icibemba
 
 # Mission
 Enhancing Adventist worship in local languages.
