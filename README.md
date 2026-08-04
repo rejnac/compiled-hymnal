@@ -13,7 +13,7 @@ The compilation encapsulates several SDA lyrics that we are refining in differen
 3. Swahili: https://tinyurl.com/rejnac-nyimbo
 4. Dholuo: https://tinyurl.com/rejnac-wende
 5. Kikuyu: https://tinyurl.com/rejnac-Agendi
-6. Chichewa: https://tinyurl.com/rejnac-Khristu
+6. Chichewa: https://tinyurl.com/rejnacs-chichewa
 7. French: https://tinyurl.com/rejnacs-Hymnes
 8. Spanish: https://tinyurl.com/rejnac-Himnari
 
