@@ -5,7 +5,7 @@ The repository contains databases of hymnal Lyrics in multiple languages.
 
 Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software (open-source), exported in its native (.vpc) format, and extracted as (.Json) file.
 
-The compilation encapsulates several databases and lyrics in different languages. 
+The compilation encapsulates several databases and lyrics that we are refining in different languages. 
 # Multilingual lyrics
 
 1. English: https://tinyurl.com/rejnac-sdah
