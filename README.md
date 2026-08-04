@@ -18,7 +18,7 @@ The compilation encapsulates several other SDA music lyrics under refinement in 
 8. Spanish: https://tinyurl.com/rejnac-spanish
 
 # Mission
-Making SDA worship material accessible to everyone.
+Enhancing Adventist worship in local languages.
 
 # VideoPsalm 
 Install VideoPsalm and follow these 3 steps to start projecting;
