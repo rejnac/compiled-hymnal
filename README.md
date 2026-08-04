@@ -1,11 +1,9 @@
 # Compiled hymns
-
-
-The repository contains databases of hymnal Lyrics in multiple languages.
+The compilation encapsulates several SDA music lyrics under refinement in different languages. 
 
 Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software (open-source), exported in its native (.vpc) format, and extracted as (.Json) file.
 
-The compilation encapsulates several SDA music lyrics under refinement in different languages. 
+
 # Multilingual lyrics
 
 1. English: https://tinyurl.com/rejnac-sdah
