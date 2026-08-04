@@ -14,8 +14,8 @@ The compilation encapsulates several SDA lyrics that we are refining in differen
 4. Dholuo: https://tinyurl.com/rejnac-wende
 5. Kikuyu: https://tinyurl.com/rejnac-Agendi
 6. Chichewa: https://tinyurl.com/rejnacs-chichewa
-7. French: https://tinyurl.com/rejnacs-Hymnes
-8. Spanish: https://tinyurl.com/rejnac-Himnari
+7. French: https://tinyurl.com/rejnacs-french
+8. Spanish: https://tinyurl.com/rejnac-spanish
 
 # Mission
 Making SDA worship material accessible to everyone.
