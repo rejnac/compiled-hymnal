@@ -12,9 +12,10 @@ The compilation encapsulates several SDA lyrics that we are refining in differen
 2. Ekegusii: https://tinyurl.com/rejnac-ogotera
 3. Swahili: https://tinyurl.com/rejnac-nyimbo
 4. Dholuo: https://tinyurl.com/rejnac-wende
-5. Kikuyu: https://tinyurl.com/rejnac-kikuyu
-6. Chichewa: https://tinyurl.com/rejnac-chichewa
-7. French: https://tinyurl.com/rejnacs-french
+5. Kikuyu: https://tinyurl.com/rejnac-Agendi
+6. Chichewa: https://tinyurl.com/rejnac-Khristu
+7. French: https://tinyurl.com/rejnacs-Hymnes
+8. Spanish: https://tinyurl.com/rejnac-Himnari
 
 # Mission
 Making SDA worship material accessible to everyone.
