@@ -6,15 +6,15 @@ Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software 
 
 # Multilingual lyrics
 
-1. English: https://tinyurl.com/rejnac-sdah
-2. Ekegusii: https://tinyurl.com/rejnac-ogotera
-3. Swahili: https://tinyurl.com/rejnac-nyimbo
-4. Dholuo: https://tinyurl.com/rejnac-wende
-5. Kikuyu: https://tinyurl.com/rejnac-Agendi
-6. Chichewa: https://tinyurl.com/rejnacs-chichewa
-7. French: https://tinyurl.com/rejnacs-french
-8. Spanish: https://tinyurl.com/rejnac-spanish
-9. Icibemba: https://tinyurl.com/rejnac-icibemba
+1. English: github.com/rejnac/sdah-hymnal
+2. Ekegusii: https://github.com/rejnac/ekegusii-hymnal
+3. Swahili: https://github.com/rejnac/swahili-hymnal
+4. Dholuo: https://github.com/rejnac/dholuo-hymnal
+5. Kikuyu: https://github.com/rejnac/kikuyu-hymnal
+6. Chichewa: https://github.com/rejnac/chichewa-hymnal
+7. French: https://github.com/rejnac/french-hymnal
+8. Spanish: https://github.com/rejnac/spanish-hymnal
+9. Icibemba: https://github.com/rejnac/icibemba-hymnal
 10. Kinyarwanda: https://github.com/rejnac/kinyarwanda-hymnal
 
 # Mission
