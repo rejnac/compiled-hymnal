@@ -15,6 +15,7 @@ Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software 
 7. French: https://tinyurl.com/rejnacs-french
 8. Spanish: https://tinyurl.com/rejnac-spanish
 9. Icibemba: https://tinyurl.com/rejnac-icibemba
+10. https://github.com/rejnac/kinyarwanda-hymnal
 
 # Mission
 Enhancing Adventist worship in local languages.
