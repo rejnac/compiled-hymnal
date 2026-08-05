@@ -6,7 +6,7 @@ Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software 
 
 # Multilingual lyrics
 
-1. English: github.com/rejnac/sdah-hymnal
+1. English: https://github.com/rejnac/sdah-hymnal
 2. Ekegusii: https://github.com/rejnac/ekegusii-hymnal
 3. Swahili: https://github.com/rejnac/swahili-hymnal
 4. Dholuo: https://github.com/rejnac/dholuo-hymnal
