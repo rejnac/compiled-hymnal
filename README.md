@@ -18,6 +18,7 @@ Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software 
 10. Kinyarwanda: https://github.com/rejnac/kinyarwanda-hymnal
 11. isZulu/Ndebele: https://github.com/rejnac/isiZulu-ndebele-hymnal
 12. Portuguese: https://github.com/rejnac/portuguese-hymnal
+13. Russian: https://github.com/rejnac/russian-hymnal
 
 # Mission
 Enhancing Adventist worship in local languages.
