@@ -19,6 +19,7 @@ Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software 
 11. isZulu/Ndebele: https://github.com/rejnac/isiZulu-ndebele-hymnal
 12. Portuguese: https://github.com/rejnac/portuguese-hymnal
 13. Russian: https://github.com/rejnac/russian-hymnal
+14. Sepedi: https://github.com/rejnac/sepedi-hymnal
 
 # Mission
 Enhancing Adventist worship in local languages.
