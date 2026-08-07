@@ -6,7 +6,7 @@ Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software 
 
 # Multilingual lyrics
 
-1. English: https://github.com/rejnac/sdah-hymnal
+1. **English**: https://github.com/rejnac/sdah-hymnal
 2. Ekegusii: https://github.com/rejnac/ekegusii-hymnal
 3. Swahili: https://github.com/rejnac/swahili-hymnal
 4. Dholuo: https://github.com/rejnac/dholuo-hymnal
@@ -22,6 +22,7 @@ Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software 
 14. Sepedi: https://github.com/rejnac/sepedi-hymnal
 15. Shona: https://github.com/rejnac/shona-hymnal
 16. Sotho: https://github.com/rejnac/sotho-hymnal
+17. Tonga: https://github.com/rejnac/tonga-hymnal
 
 # Mission
 Enhancing Adventist worship in local languages.
