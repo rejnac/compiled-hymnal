@@ -16,6 +16,8 @@ Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software 
 8. Spanish: https://github.com/rejnac/spanish-hymnal
 9. Icibemba: https://github.com/rejnac/icibemba-hymnal
 10. Kinyarwanda: https://github.com/rejnac/kinyarwanda-hymnal
+11. isZulu/Ndebele: https://github.com/rejnac/isiZulu-ndebele-hymnal
+12. Portuguese: https://github.com/rejnac/portuguese-hymnal
 
 # Mission
 Enhancing Adventist worship in local languages.
