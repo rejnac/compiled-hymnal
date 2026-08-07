@@ -21,6 +21,7 @@ Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software 
 13. Russian: https://github.com/rejnac/russian-hymnal
 14. Sepedi: https://github.com/rejnac/sepedi-hymnal
 15. Shona: https://github.com/rejnac/shona-hymnal
+16. Sotho: https://github.com/rejnac/sotho-hymnal
 
 # Mission
 Enhancing Adventist worship in local languages.
