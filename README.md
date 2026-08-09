@@ -24,6 +24,7 @@ The compilation encapsulates several SDA music lyrics under refinement in differ
 16. Sotho: https://github.com/rejnac/sotho-hymnal
 17. Tonga: https://github.com/rejnac/tonga-hymnal
 18. Tswana: https://github.com/rejnac/tswana-hymnal
+19. Tumbuka: https://github.com/rejnac/tumbuka-hymnal
 
 # Mission
 Enhancing Adventist worship in local languages.
