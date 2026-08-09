@@ -27,6 +27,8 @@ The compilation encapsulates several SDA music lyrics under refinement in differ
 19. Tumbuka: https://github.com/rejnac/tumbuka-hymnal
 20. Twi: https://github.com/rejnac/twi-hymnal
 21. Venda: https://github.com/rejnac/venda-hymnal
+22. Xhosa: https://github.com/rejnac/xhosa-hymnal
+23. Xitsonga: https://github.com/rejnac/xitsonga-hymnal
 
 # Mission
 Enhancing Adventist worship in local languages.
