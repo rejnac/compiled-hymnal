@@ -13,22 +13,23 @@ The compilation encapsulates several SDA music lyrics under refinement in differ
 5.	French: https://github.com/rejnac/french-hymnal
 6.	Icibemba: https://github.com/rejnac/icibemba-hymnal
 7.	isZulu/Ndebele: https://github.com/rejnac/isiZulu-ndebele-hymnal
-8.	Kikuyu: https://github.com/rejnac/kikuyu-hymnal
-9.	Kinyarwanda: https://github.com/rejnac/kinyarwanda-hymnal
-10.	Portuguese: https://github.com/rejnac/portuguese-hymnal
-11.	Russian: https://github.com/rejnac/russian-hymnal
-12.	Sepedi: https://github.com/rejnac/sepedi-hymnal
-13.	Shona: https://github.com/rejnac/shona-hymnal
-14.	Sotho: https://github.com/rejnac/sotho-hymnal
-15.	Spanish: https://github.com/rejnac/spanish-hymnal
-16.	Swahili: https://github.com/rejnac/swahili-hymnal
-17.	Tonga: https://github.com/rejnac/tonga-hymnal
-18.	Tswana: https://github.com/rejnac/tswana-hymnal
-19.	Tumbuka: https://github.com/rejnac/tumbuka-hymnal
-20.	Twi: https://github.com/rejnac/twi-hymnal
-21.	Venda: https://github.com/rejnac/venda-hymnal
-22.	Xhosa: https://github.com/rejnac/xhosa-hymnal
-23.	Xitsonga: https://github.com/rejnac/xitsonga-hymnal
+8.	Kalenjin: https://github.com/rejnac/kalenjin-hymnal
+9.	Kikuyu: https://github.com/rejnac/kikuyu-hymnal
+10.	Kinyarwanda: https://github.com/rejnac/kinyarwanda-hymnal
+11.	Portuguese: https://github.com/rejnac/portuguese-hymnal
+12.	Russian: https://github.com/rejnac/russian-hymnal
+13.	Sepedi: https://github.com/rejnac/sepedi-hymnal
+14.	Shona: https://github.com/rejnac/shona-hymnal
+15.	Sotho: https://github.com/rejnac/sotho-hymnal
+16.	Spanish: https://github.com/rejnac/spanish-hymnal
+17.	Swahili: https://github.com/rejnac/swahili-hymnal
+18.	Tonga: https://github.com/rejnac/tonga-hymnal
+19.	Tswana: https://github.com/rejnac/tswana-hymnal
+20.	Tumbuka: https://github.com/rejnac/tumbuka-hymnal
+21.	Twi: https://github.com/rejnac/twi-hymnal
+22.	Venda: https://github.com/rejnac/venda-hymnal
+23.	Xhosa: https://github.com/rejnac/xhosa-hymnal
+24.	Xitsonga: https://github.com/rejnac/xitsonga-hymnal
 
 
 # Mission
