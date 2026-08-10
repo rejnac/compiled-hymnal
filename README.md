@@ -6,29 +6,30 @@ The compilation encapsulates several SDA music lyrics under refinement in differ
 
 # Multilingual lyrics
 
-1. **English**: https://github.com/rejnac/sdah-hymnal
-2. Ekegusii: https://github.com/rejnac/ekegusii-hymnal
-3. Swahili: https://github.com/rejnac/swahili-hymnal
-4. Dholuo: https://github.com/rejnac/dholuo-hymnal
-5. Kikuyu: https://github.com/rejnac/kikuyu-hymnal
-6. Chichewa: https://github.com/rejnac/chichewa-hymnal
-7. French: https://github.com/rejnac/french-hymnal
-8. Spanish: https://github.com/rejnac/spanish-hymnal
-9. Icibemba: https://github.com/rejnac/icibemba-hymnal
-10. Kinyarwanda: https://github.com/rejnac/kinyarwanda-hymnal
-11. isZulu/Ndebele: https://github.com/rejnac/isiZulu-ndebele-hymnal
-12. Portuguese: https://github.com/rejnac/portuguese-hymnal
-13. Russian: https://github.com/rejnac/russian-hymnal
-14. Sepedi: https://github.com/rejnac/sepedi-hymnal
-15. Shona: https://github.com/rejnac/shona-hymnal
-16. Sotho: https://github.com/rejnac/sotho-hymnal
-17. Tonga: https://github.com/rejnac/tonga-hymnal
-18. Tswana: https://github.com/rejnac/tswana-hymnal
-19. Tumbuka: https://github.com/rejnac/tumbuka-hymnal
-20. Twi: https://github.com/rejnac/twi-hymnal
-21. Venda: https://github.com/rejnac/venda-hymnal
-22. Xhosa: https://github.com/rejnac/xhosa-hymnal
-23. Xitsonga: https://github.com/rejnac/xitsonga-hymnal
+1.	Chichewa: https://github.com/rejnac/chichewa-hymnal
+2.	Dholuo: https://github.com/rejnac/dholuo-hymnal
+3.	Ekegusii: https://github.com/rejnac/ekegusii-hymnal
+4.	English: https://github.com/rejnac/sdah-hymnal
+5.	French: https://github.com/rejnac/french-hymnal
+6.	Icibemba: https://github.com/rejnac/icibemba-hymnal
+7.	isZulu/Ndebele: https://github.com/rejnac/isiZulu-ndebele-hymnal
+8.	Kikuyu: https://github.com/rejnac/kikuyu-hymnal
+9.	Kinyarwanda: https://github.com/rejnac/kinyarwanda-hymnal
+10.	Portuguese: https://github.com/rejnac/portuguese-hymnal
+11.	Russian: https://github.com/rejnac/russian-hymnal
+12.	Sepedi: https://github.com/rejnac/sepedi-hymnal
+13.	Shona: https://github.com/rejnac/shona-hymnal
+14.	Sotho: https://github.com/rejnac/sotho-hymnal
+15.	Spanish: https://github.com/rejnac/spanish-hymnal
+16.	Swahili: https://github.com/rejnac/swahili-hymnal
+17.	Tonga: https://github.com/rejnac/tonga-hymnal
+18.	Tswana: https://github.com/rejnac/tswana-hymnal
+19.	Tumbuka: https://github.com/rejnac/tumbuka-hymnal
+20.	Twi: https://github.com/rejnac/twi-hymnal
+21.	Venda: https://github.com/rejnac/venda-hymnal
+22.	Xhosa: https://github.com/rejnac/xhosa-hymnal
+23.	Xitsonga: https://github.com/rejnac/xitsonga-hymnal
+
 
 # Mission
 Enhancing Adventist worship in local languages.
