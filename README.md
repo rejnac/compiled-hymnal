@@ -30,6 +30,7 @@ The compilation encapsulates several SDA music lyrics under refinement in differ
 22.	Venda: https://github.com/rejnac/venda-hymnal
 23.	Xhosa: https://github.com/rejnac/xhosa-hymnal
 24.	Xitsonga: https://github.com/rejnac/xitsonga-hymnal
+25.	Kamba: https://github.com/rejnac/kamba-hymnal
 
 
 # Mission
